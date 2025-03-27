@@ -1,8 +1,8 @@
 ## Hello, I'm Airton Oliveira!
 
-*Bachelor in Electrical Engineering - Emphasis in Computer Engineering at the Polytechnic School of the University of São Paulo (USP) <br>
-*Master's Degree in Computer Engineering at the Polytechnic School of the University of São Paulo (USP) (On going) <br>
-Actually I work at Klavi as a Software Engineer.<br>*
+*Bachelor in Electrical Engineering - Emphasis in Computer Engineering at the Polytechnic School of the University of São Paulo (USP) <br>*
+*Master's Degree in Computer Engineering at the Polytechnic School of the University of São Paulo (USP) (On going) <br>*
+Actually I work at Klavi as a Software Engineer <br>
 
 ## Introduction
 
